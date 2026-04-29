@@ -1,5 +1,5 @@
 # NO-SoundMod [Deprecated]
-There is a better and more maintained mod for NO here: [https://github.com/JUSTJ7780/NO-QOL/releases/tag/3.1](https://github.com/JUSTJ7780/NO-QOL/releases)
+There is a better and more maintained mod for NO here: https://github.com/JUSTJ7780/NO-QOL/releases
 
 A modified version of BepInEx-SoundMod for Nuclear Option. (Fixes the respawn issue present in the bepinex version)
 Original: [bepinex-soundmod](https://github.com/Ol1vver/bepinex-soundmod)
